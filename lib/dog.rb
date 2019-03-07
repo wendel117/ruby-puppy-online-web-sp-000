@@ -14,7 +14,7 @@ end
 end
 
 def all(name)
-  @@all 
+  @@all
 end
 
 
