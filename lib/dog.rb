@@ -13,10 +13,6 @@ def self.all
 end
 end
 
-def all(name)
-  @@all
-end
-
 
 def clear_all#
   @@all = @@all.clear
