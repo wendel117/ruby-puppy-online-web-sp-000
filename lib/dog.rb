@@ -11,7 +11,7 @@ def initialize(name)
 end
 
 def self.all
-  @@all
+  @@all.each {|dog| puts dog.name}
 end
 end
 
