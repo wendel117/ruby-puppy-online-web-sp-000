@@ -8,7 +8,7 @@ def initialize(name)
   @@all << self
 end
 
-def all
+def Dog.all
   @@all
 end
 end
