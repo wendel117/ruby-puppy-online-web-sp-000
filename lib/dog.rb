@@ -14,7 +14,6 @@ end
 end
 
 
-def clear_all#
-  @@all = @@all.clear
-  @@all
+def clear_all
+  self.clear
 end
