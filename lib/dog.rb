@@ -15,5 +15,5 @@ end
 
 
 def clear_all
-  self.clear
+  self.clear_all
 end
