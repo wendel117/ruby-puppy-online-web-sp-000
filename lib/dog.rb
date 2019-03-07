@@ -18,3 +18,4 @@ def self.clear_all
   @@clear_all = self.clear
   @@all
 end
+end
