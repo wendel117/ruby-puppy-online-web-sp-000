@@ -12,8 +12,8 @@ end
 def self.all
   @@all.each {|dog| puts dog.name}
 end
-end
 
 def self.clear_all
   @@all.clear
+end
 end
