@@ -12,7 +12,7 @@ def self.all
   @@all
 end
 
-def .clear_all
+def clear_all
   @all.clear_all
   @@all
 end
