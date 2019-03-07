@@ -9,10 +9,10 @@ def initialize(name)
   @@all << self
 end
 
+#def clear_all#
+#  self.clear_all
+#end
 
-def clear_all
-  self.clear_all
-end
 def self.all
   @@all
 end
